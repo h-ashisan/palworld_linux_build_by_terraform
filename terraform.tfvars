@@ -1,0 +1,2 @@
+project = "palworld"
+env     = "dev"
